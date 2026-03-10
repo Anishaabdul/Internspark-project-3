@@ -122,6 +122,8 @@ Enhancing website design, loading speed, and navigation can improve user satisfa
 Website traffic analysis provides valuable insights into user behavior and engagement patterns. By analyzing event data, geographic distribution, and content popularity, businesses can better understand their audience and optimize their strategies.
 
 ---
-The findings from this project demonstrate how data analytics can help organizations improve website performance, increase user engagement, and make data-driven decisions for future growth.
+## Author
+Anisha A
+Data Analyst Intern
 
-If you want, I can also give you a shorter 1.5 page version (which most internship evaluators prefer) and 10 key insights you can directly add in your notebook to make the project look more advanced.
+---
